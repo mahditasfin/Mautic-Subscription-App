@@ -9,7 +9,7 @@ IMAGE_TAG=main
 IMAGE_REGISTRY=image-registry.openshift-image-registry.svc:5000
 SUBSCRIBE_FORM=subscribe
 UNSUBSCRIBE_FORM=unsubscribe
-SUBSCRIBE_URL=http://mautic-9daef1-tools.apps.silver.devops.gov.bc.ca/form/submit?formId=1
-UNSUBSCRIBE_URL=http://mautic-9daef1-tools.apps.silver.devops.gov.bc.ca/form/submit?formId=2
+SUBSCRIBE_URL=https://mautic-subscription-main-9daef1-dev.apps.silver.devops.gov.bc.ca/form/submit?formId=1
+UNSUBSCRIBE_URL=https://mautic-subscription-main-9daef1-dev.apps.silver.devops.gov.bc.ca/form/submit?formId=2
 KEYCLOAK_URL=https://soam-dev.apps.silver.devops.gov.bc.ca/
 SSO_REALM=master
