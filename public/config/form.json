@@ -1,7 +1,8 @@
 {
   "subscribeFormName": "subscribe",
   "unsubscribeFormName": "unsubscribe",
- "subscribeActionURL": "https://mautic-subscription-main-9daef1-dev.apps.silver.devops.gov.bc.ca/form/submit?formId=1",
- "unsubscribeActionURL": "https://mautic-subscription-main-9daef1-dev.apps.silver.devops.gov.bc.ca/form/submit?formId=2"
+  "subscribeActionURL": "https://mautic-9daef1-tools.apps.silver.devops.gov.bc.ca/form/submit?formId=1",
+  "unsubscribeActionURL": "https://mautic-9daef1-tools.apps.silver.devops.gov.bc.ca/form/submit?formId=2"
 }
+
 
